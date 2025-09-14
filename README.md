@@ -12,8 +12,8 @@ Besides developing new projects, I also try to solve problems or identify and re
 ## 🚀 Featured Repositories
 
 - [aioworxmower](https://github.com/tb-killa/aioworxmower) - Python library to control worx like mower
-- [aioworxmower-docs](https://github.com/tb-killa/aioworxmower-docs) - null
-- [rwe-innogy-livisi-smarthome](https://github.com/tb-killa/rwe-innogy-livisi-smarthome) - null
+- [aioworxmower-docs](https://github.com/tb-killa/aioworxmower-docs) - Docs for the aioworxmower python library
+- [rwe-innogy-livisi-smarthome](https://github.com/tb-killa/rwe-innogy-livisi-smarthome) - Insights and Stuff from RWE-Innogy-Livisi Smarthome
 
 <!-- featured-end -->
 
